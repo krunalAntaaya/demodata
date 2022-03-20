@@ -6,7 +6,7 @@ const HomeScreen = () => {
     <View style={styles.container}>
       <View>
         <TouchableOpacity>
-          <Text>Submit </Text>
+          <Text>data demo </Text>
         </TouchableOpacity>
       </View>
     </View>
